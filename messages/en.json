@@ -1,0 +1,14 @@
+{
+  "LayoutPage": {
+      "logo":"logo"
+    },
+    "IndexPage": {
+      "title": "Hello world!",
+      "link": "about"
+    },
+    "AboutPage": {
+      "title": "About Us",
+      "link":"home"
+    }
+    
+  }

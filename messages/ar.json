@@ -1,0 +1,13 @@
+{
+  "LayoutPage": {
+     "logo":"شعار"
+   },
+    "IndexPage": {
+      "title": "مرحباً بالعالم",
+      "link":"من نحن"
+    },
+    "AboutPage": {
+      "title":"من نحن",
+      "link":"الصفحة الرئيسية"
+    }
+  }
